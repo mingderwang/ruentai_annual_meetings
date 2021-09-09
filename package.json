@@ -1,0 +1,16 @@
+{
+  "name": "ruentai",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "ipfs": "node ipfs.js"
+  },
+  "devDependencies": {
+    "chalk": "^4.1.2",
+    "ipfs-http-client": "^45.0.0"
+  },
+  "dependencies": {
+    "readline": "^1.3.0"
+  }
+}
